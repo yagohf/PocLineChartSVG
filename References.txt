@@ -1,0 +1,7 @@
+https://willianjusten.com.br/criando-svg-responsivo/
+https://codepen.io/alanmenhennet/pen/WxrXww
+https://css-tricks.com/how-to-make-charts-with-svg/
+http://www.pshul.com/2018/01/25/xamarin-forms-using-svg-images-with-skiasharp/
+https://danielpataki.com/svg-chart/
+https://medium.com/frapp%C3%A9-thoughts/so-we-decided-to-create-our-own-charts-a95cb5032c97
+https://teropa.info/blog/2016/12/12/graphics-in-angular-2.html
